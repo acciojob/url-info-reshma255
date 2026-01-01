@@ -1,6 +1,6 @@
 
 let currentURL = location.href;
 
-let urlLength = currentURL.length;
+let n = currentURL.length;
 
-alert("The length of the URL is: " + urlLength);
+alert("The length of the URL is: " + n);
